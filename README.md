@@ -6,9 +6,7 @@ An enterprise-grade, highly available 2-Tier cloud infrastructure built on Amazo
 
 ## 📸 Architecture Preview
 
-<p align="center">
-  <img src="docs/images/vpc-example-private-subnets.png" width="80%" alt="Architecture Overview" />
-</p>
+![VPC Setup](docs/vpc-example-private-subnets.png)
 
 ---
 
