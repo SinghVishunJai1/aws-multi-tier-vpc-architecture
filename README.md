@@ -48,75 +48,60 @@ An enterprise-grade, highly available 2-Tier cloud infrastructure built on Amazo
 
 ---
 
-## 📸 Implementation Gallery
+## Screenshots & Architecture Diagrams
+
+### VPC & Subnet Architecture
+![VPC Setup](docs/vpc-example-private-subnets.png)
 
 ### 1. VPC and Subnet Configuration
-<p align="center">
-  <img src="docs/images/img1.jpg" width="48%" alt="VPC Setup 1" />
-  <img src="docs/images/img2.jpg" width="48%" alt="VPC Setup 2" />
-</p>
-<p align="center">
-  <img src="docs/images/img3.jpg" width="48%" alt="VPC Setup 3" />
-  <img src="docs/images/img4.jpg" width="48%" alt="VPC Setup 4" />
-</p>
-
-> Full set: `img1.jpg` – `img12.jpg`
+![Step 1](docs/img1.png)
+![Step 4](docs/img4.png)
+![Step 5](docs/img5.png)
+![Step 9](docs/img9.png)
+![Step 10](docs/img10.png)
+![Step 12](docs/img12.png)
 
 ### 2. Launch Template & Security Groups
-<p align="center">
-  <img src="docs/images/img16.jpg" width="48%" alt="Launch Template 1" />
-  <img src="docs/images/img17.jpg" width="48%" alt="Launch Template 2" />
-</p>
-
-> Full set: `img16.jpg` – `img22.jpg`
+![Step 16](docs/img16.png)
+![Step 19](docs/img19.png)
+![Step 20](docs/img20.png)
+![Step 22](docs/img22.png)
 
 ### 3. Auto Scaling Group & Private Fleet
-<p align="center">
-  <img src="docs/images/img27.jpg" width="48%" alt="Auto Scaling 1" />
-  <img src="docs/images/img28.jpg" width="48%" alt="Auto Scaling 2" />
-</p>
-
-> Full set: `img27.jpg` – `img34.jpg`
+![Step 27](docs/img27.png)
+![Step 28](docs/img28.png)
+![Step 31](docs/img31.png)
+![Step 32](docs/img32.png)
+![Step 34](docs/img34.png)
 
 ### 4. Bastion Host & Secure Multi-Hop SSH
-<p align="center">
-  <img src="docs/images/img37.jpg" width="48%" alt="Bastion Host 1" />
-  <img src="docs/images/img38.jpg" width="48%" alt="Bastion Host 2" />
-</p>
-
-> Full set: `img37.jpg` – `img46.png`
+![Step 37](docs/img37.png)
+![Step 39](docs/img39.png)
+![Step 44](docs/img44.png)
+![Step 46](docs/img46.png)
 
 ### 5. Nginx Deployment & Local Verification
-<p align="center">
-  <img src="docs/images/img48.png" width="48%" alt="Nginx Setup 1" />
-  <img src="docs/images/img49.png" width="48%" alt="Nginx Setup 2" />
-</p>
-
-> Full set: `img48.png` – `img53.png`
+![Step 48](docs/img48.png)
+![Step 50](docs/img50.png)
+![Step 53](docs/img53.png)
 
 ### 6. Target Group & Application Load Balancer
-<p align="center">
-  <img src="docs/images/img55.png" width="48%" alt="ALB Setup 1" />
-  <img src="docs/images/img56.png" width="48%" alt="ALB Setup 2" />
-</p>
-
-> Full set: `img55.png` – `img67.jpg`
+![Step 55](docs/img55.png)
+![Step 57](docs/img57.png)
+![Step 59](docs/img59.png)
+![Step 63](docs/img63.png)
+![Step 64](docs/img64.png)
+![Step 67](docs/img67.png)
 
 ### 7. Live Web Application Verification
-<p align="center">
-  <img src="docs/images/img68.jpg" width="48%" alt="Live App 1" />
-  <img src="docs/images/img69.jpg" width="48%" alt="Live App 2" />
-</p>
-
-> Full set: `img68.jpg` – `img70.jpg`
+![Step 68](docs/img68.png)
+![Step 69](docs/img69.png)
+![Step 70](docs/img70.png)
 
 ### 8. Observability & CloudWatch Telemetry
-<p align="center">
-  <img src="docs/images/img72.jpg" width="48%" alt="CloudWatch 1" />
-  <img src="docs/images/img73.jpg" width="48%" alt="CloudWatch 2" />
-</p>
-
-> Full set: `img72.jpg` – `img75.jpg`
+![Step 72](docs/img72.png)
+![Step 74](docs/img74.png)
+![Step 75](docs/img75.png)
 
 ---
 ---
